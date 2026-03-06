@@ -4,7 +4,7 @@ if torch_lit:
 else:
     outcome = "Doom: The lights are out, we cannot see!"
 print(outcome)
-----
+"""
         /|
         /\/ |/\
         \  ^   | /\  /\
@@ -26,4 +26,5 @@ print(outcome)
           |    |
           |    |
           |    |
-----
+"""
+
